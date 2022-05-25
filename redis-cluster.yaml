@@ -1,0 +1,5 @@
+- name: Install-redis-master
+  hosts: all
+  become: yes
+  roles: 
+  - ansible-roles/install-redis

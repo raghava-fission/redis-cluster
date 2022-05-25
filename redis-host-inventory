@@ -1,0 +1,5 @@
+[master_redis]
+52.66.178.9
+
+[redis_slaves]
+13.235.24.59
